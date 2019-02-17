@@ -50,6 +50,7 @@ img {
     font-family: 'Montserrat', sans-serif;
 }
 
+
 .header-img img {
     width: 80%;
     min-width: 350px;
@@ -269,9 +270,8 @@ button:hover {
 
 #footer hr {
   padding-bottom: 50px;
-  color: #164deb;
+  color: linear-gradient(to right, #093028, #237A57);;
   background: linear-gradient(to right, #093028, #237A57);
-  border-top: 0px solid #164deb !important;
 }
 
 #footer p {
@@ -285,6 +285,14 @@ button:hover {
     font-size: 18px;
 }
 
+
+#footer a i {
+  color: #ffffff;
+  font-size: 25px;
+}
+#footer a i:hover{
+  color: #237A57;
+}
 /******************/
 /******************/
 /******************/
