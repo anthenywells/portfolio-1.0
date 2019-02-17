@@ -89,22 +89,6 @@ hr {
     border-top: 0px solid #ffffff !important;
 }
 
-.glyph-dev {
-    position: absolute;
-    font-size: 500px;
-    top: -150px;
-    left: 200px;
-    opacity: 0.05;
-}
-
-.glyph-marketing {
-    position: absolute;
-    font-size: 500px;
-    top: -125px;
-    right: 200px;
-    opacity: 0.05;
-}
-
 .title {
     color: #233142;
     font-size: 50px;
@@ -365,14 +349,6 @@ button:hover {
     .skills-progress {
         padding: 0px 15px !important;
     }
-
-    .glyph-dev {
-        display: none !important;
-    }
-    
-    .glyph-marketing {
-        display: none !important;
-    }
 }
 
 @media only screen and (max-width: 1450px) {
@@ -390,13 +366,6 @@ button:hover {
       margin: 20px;
     }
 
-    .glyph-dev {
-        left: 0px;
-    }
-    
-    .glyph-marketing {
-        right: 0px;
-    }
 }
 
 @media only screen and (max-width: 1245px) {
